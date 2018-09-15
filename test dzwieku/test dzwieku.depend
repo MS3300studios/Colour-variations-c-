@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537027006 source:c:\users\msi\desktop\cdbl programme files\test dzwieku\main.cpp
+	<iostream>
+	<windows.h>
+
